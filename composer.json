@@ -1,5 +1,5 @@
 {
-  "name": "ranky/shared-bundle",
+  "name": "garciac12/shared-bundle",
   "description": "A reusable Symfony bundle for common functionality",
   "type": "symfony-bundle",
   "license": "MIT",
@@ -27,7 +27,7 @@
     "symfony/uid": "^5.4 || ^6.0 || ^7.0",
     "symfony/twig-bundle": "^5.4 || ^6.0 || ^7.0",
     "doctrine/doctrine-bundle": "^2.0",
-    "doctrine/orm": "^2.6"
+    "doctrine/orm": "^3.2"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5",
