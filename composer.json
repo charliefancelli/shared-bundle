@@ -1,5 +1,5 @@
 {
-  "name": "garciac12/shared-bundle",
+  "name": "ranky/shared-bundle",
   "description": "A reusable Symfony bundle for common functionality",
   "type": "symfony-bundle",
   "license": "MIT",
